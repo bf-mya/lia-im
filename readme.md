@@ -41,7 +41,9 @@ In the reader, **click any word to hear it alone** (tick *Slow words* for pronun
 Dear Hiring Manager, I am writing to apply for the warehouse supervisor position advertised on your website.
 I have five years of experience in logistics. I am confident that my skills match your requirements.
 
-- Mr. Peeters has managed a team of twelve people.
+---
+
+- Mr Peters has managed a team of twelve people.
 - He is fluent in Dutch, French and English.
 
 ## Calling it from a script
