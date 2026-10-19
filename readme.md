@@ -5,6 +5,11 @@ version:  0.1.0
 
 script:   lia-reader.js
 
+edit:
+
+narrator: UK English Female
+language: en
+
 @onload
 LiaReader.config.lang = "en";
 LiaReader.config.engine = "responsivevoice";  // or "native"
