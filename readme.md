@@ -29,7 +29,7 @@ In the reader, **click any word to hear it alone** (tick *Slow words* for pronun
    `script: https://cdn.jsdelivr.net/gh/YOUR-USER/YOUR-REPO@main/lia-reader.js`
 
 3. Open the course with
-   `https://liascript.github.io/course/?https://raw.githubusercontent.com/YOUR-USER/YOUR-REPO/main/example.md`
+   `https://liascript.github.io/course/?https://raw.githubusercontent.com/bf-mya/lia-im/refs/heads/main/readme.md`
 
 ## Sample text for a job-seeker lesson
 
